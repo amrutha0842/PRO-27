@@ -53,6 +53,11 @@ function draw() {
   bobObject3.display();
   bobObject4.display();
   bobObject5.display();
+  rope1.display();
+  rope2.display();
+  rope3.display();
+  rope4.display();
+  rope5.display();
   
   drawSprites();
  
